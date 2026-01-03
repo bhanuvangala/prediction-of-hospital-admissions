@@ -1,0 +1,14 @@
+This patient's name is darshan.
+
+This patient is suffering from fever.
+
+This patient's blood group is B-.
+
+This patient's Date Of Birth is 12/10/1992.
+
+This patient's Address is Channapatna.
+
+City is Mysore.
+
+Mobile Number is 8787879887
+ Pin Code is 660029

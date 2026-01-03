@@ -1,0 +1,14 @@
+This patient''s name is Rakshatha.
+
+This patient is suffering from headache.
+
+This patient's blood group is AB-.
+
+This patient's Date Of Birth is 12/10/1980.
+
+This patient's Address is Sarjapur.
+
+City is Bangalore.
+
+Mobile Number is 9844986647
+ Pin Code is 560025

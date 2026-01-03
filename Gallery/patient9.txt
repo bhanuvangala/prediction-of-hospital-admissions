@@ -1,0 +1,15 @@
+This patient's name is anil
+
+This patient is suffering from mental
+
+This patient's blood group is A+.
+
+This patient's Date Of Birth is 2/11/1970.
+
+This patient's Address is vanavasapura
+
+City is Bangalore.
+
+Mobile Number is 9987567487
+ Pin Code is 560052
+

@@ -1,0 +1,16 @@
+This patient''s name is Swathi.
+
+This patient is suffering from H1N1.
+
+This patient's blood group is A+.
+
+This patient's Date Of Birth is 12/10/1986.
+
+This patient's Address is Patna.
+
+City is Bihar.
+
+Mobile Number is 9987879887
+ Pin Code is 460029
+
+This patient is under ventilators.

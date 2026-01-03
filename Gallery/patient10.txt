@@ -1,0 +1,15 @@
+This patient's name is suryakanth
+
+This patient is suffering from stomachpain
+
+This patient's blood group is O-.
+
+This patient's Date Of Birth is 2/11/1970.
+
+This patient's Address is suryapet
+
+City is Bangalore.
+
+Mobile Number is 9987567487
+ Pin Code is 560011
+

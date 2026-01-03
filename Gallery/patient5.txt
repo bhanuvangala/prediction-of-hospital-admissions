@@ -1,0 +1,14 @@
+This patient's name is Narayan .
+
+This patient is suffering from flue .
+
+This patient's blood group is B+ .
+
+This patient's Date Of Birth is 12/10/1996 .
+
+This patient's Address is Jayanagar .
+
+City is Bangalore .
+
+Mobile Number is 9987856746
+ Pin Code is 560045

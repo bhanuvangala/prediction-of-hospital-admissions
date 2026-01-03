@@ -1,0 +1,16 @@
+This patient''s name is Suresh.
+
+This patient is suffering from H1N1.
+
+This patient's blood group is AB+.
+
+This patient's Date Of Birth is 12/10/2000.
+
+This patient's Address is Patna.
+
+City is Bihar.
+
+Mobile Number is 8987879888
+ Pin Code is 460029
+
+This patient is in ICU.

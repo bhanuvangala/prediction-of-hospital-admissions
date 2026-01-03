@@ -1,0 +1,16 @@
+This patient's name is Mukesh.
+
+This patient is suffering from Cancer.
+
+This patient's blood group is O+.
+
+This patient's Date Of Birth is 9/9/2006.
+
+This patient's Address is Srinagara.
+
+City is Bangalore.
+
+Mobile Number is 9987669887
+ Pin Code is 560024
+
+This patient is now some what all right.

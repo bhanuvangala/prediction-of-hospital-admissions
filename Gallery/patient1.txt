@@ -1,0 +1,16 @@
+This patient''s name is Kranthi.
+
+This patient is suffering from cancer.
+
+This patient's blood group is AB+.
+
+This patient's Date Of Birth is 12/10/1984.
+
+This patient's Address is RajajiNagar.
+
+City is Bangalore.
+
+Mobile Number is 8987879887
+ Pin Code is 560029
+
+This patient is under ventilators.
